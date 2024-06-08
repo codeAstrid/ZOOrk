@@ -1,0 +1,3 @@
+/Users/astrid/Documents/Project/ZOOrk/build/CMakeFiles/ZOOrk.dir
+/Users/astrid/Documents/Project/ZOOrk/build/CMakeFiles/edit_cache.dir
+/Users/astrid/Documents/Project/ZOOrk/build/CMakeFiles/rebuild_cache.dir

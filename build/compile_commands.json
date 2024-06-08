@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/main.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/main.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/main.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Item.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Item.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Item.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Item.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Character.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Character.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Character.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Character.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Location.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Location.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Location.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Location.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/GameObject.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/GameObject.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/GameObject.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/GameObject.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Room.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Room.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Room.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Room.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Passage.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Passage.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Passage.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Passage.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/NullRoom.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/NullRoom.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/NullRoom.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullRoom.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/NullCommand.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/NullCommand.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/NullCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullCommand.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/Player.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/Player.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/Player.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/Player.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/RoomDefaultEnterCommand.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/RoomDefaultEnterCommand.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/RoomDefaultEnterCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/RoomDefaultEnterCommand.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/ZOOrkEngine.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/ZOOrkEngine.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/ZOOrkEngine.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/ZOOrkEngine.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/PassageDefaultEnterCommand.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/PassageDefaultEnterCommand.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/PassageDefaultEnterCommand.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/PassageDefaultEnterCommand.cpp.o"
+},
+{
+  "directory": "/Users/astrid/Documents/Project/ZOOrk/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/ZOOrk.dir/NullPassage.cpp.o -c /Users/astrid/Documents/Project/ZOOrk/NullPassage.cpp",
+  "file": "/Users/astrid/Documents/Project/ZOOrk/NullPassage.cpp",
+  "output": "CMakeFiles/ZOOrk.dir/NullPassage.cpp.o"
+}
+]

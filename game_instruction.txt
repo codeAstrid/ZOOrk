@@ -1,0 +1,16 @@
+start
+take torch
+go front
+use torch
+go down
+take key
+use key
+go front
+use torch
+go front
+take note
+use note
+go back
+comfort
+
+If you are stuck in the attic without a torch, you'll have to go down to the bedroom, grab the torch and use it in the hallway to continue.
